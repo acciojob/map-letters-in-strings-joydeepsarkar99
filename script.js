@@ -1,6 +1,6 @@
 //your JS code here. If required.
 function mapLetters(str) {
-		let obj = {}
+	let obj = {}
 	for(let i=0;i<str.length;i++){
 	  let s = str[i]
 	  if(s in obj == false){
@@ -12,7 +12,5 @@ function mapLetters(str) {
 }
 
 
-
-
-const s = prompt("Enter String:");
-alert(mapLetters(s));
+// const s = prompt("Enter String:");
+// alert(mapLetters(s));
