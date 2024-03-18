@@ -11,6 +11,3 @@ function mapLetters(str) {
 	return obj
 }
 
-
-// const s = prompt("Enter String:");
-// alert(mapLetters(s));
